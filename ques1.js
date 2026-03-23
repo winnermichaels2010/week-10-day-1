@@ -4,5 +4,4 @@ function greetUser(name){
 
     return (greeting)
 }
-
 greetUser ("Winner")
